@@ -14,7 +14,7 @@
 * Since GREAT requires that the background set be a superset of the test set, OCR intervals overlapping peaks were removed and then the remaining ones were concatenated with the peaks to generate the background set.
 
 ### Results
-**All peaks as test set, whole genome as background set**
+####All peaks as test set, whole genome as background set
 <details><summary>GM12878</summary>
 <p>
 <img src="https://github.com/frnkhu/h3k27ac_go/raw/master/img/1.all.all.png">
@@ -8546,7 +8546,7 @@ Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream,
 </p>
 </details>
 <br><br>
-**All peaks as test set, open chromatin region as background set**
+####All peaks as test set, open chromatin region as background set
 <details><summary>GM12878</summary>
 <p>
 <img src="https://github.com/frnkhu/h3k27ac_go/raw/master/img/1.all.bg.png">
@@ -8582,7 +8582,7 @@ No terms found
 </p>
 </details>
 <br><br>
-**Top 25000 peaks as test set, whole genome as background set**
+####Top 25000 peaks as test set, whole genome as background set
 <details><summary>GM12878</summary>
 <p>
 <img src="https://github.com/frnkhu/h3k27ac_go/raw/master/img/1.25.all.png">
@@ -19922,7 +19922,7 @@ Association rule: Basal+extension: 5000 bp upstream, 1000 bp downstream,
 </p>
 </details>
 <br><br>
-**Top 25000 peaks as test set, open chromatin region as background set**
+####Top 25000 peaks as test set, open chromatin region as background set
 <details><summary>GM12878</summary>
 <p>
 <img src="https://github.com/frnkhu/h3k27ac_go/raw/master/img/1.25.bg.png">
